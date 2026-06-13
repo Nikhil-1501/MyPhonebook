@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Material 3 Palette - Light -->
+    <color name="m3_primary">#0061A4</color>
+    <color name="m3_on_primary">#FFFFFF</color>
+    <color name="m3_primary_container">#D1E4FF</color>
+    <color name="m3_on_primary_container">#001D36</color>
+
+    <color name="m3_secondary">#535F70</color>
+    <color name="m3_on_secondary">#FFFFFF</color>
+    <color name="m3_secondary_container">#D7E3F7</color>
+    <color name="m3_on_secondary_container">#101C2B</color>
+
+    <color name="m3_tertiary">#6B5778</color>
+    <color name="m3_on_tertiary">#FFFFFF</color>
+    <color name="m3_tertiary_container">#F2DAFF</color>
+    <color name="m3_on_tertiary_container">#251431</color>
+
+    <color name="m3_surface">#FDFCFF</color>
+    <color name="m3_on_surface">#1A1C1E</color>
+    <color name="m3_surface_variant">#DFE2EB</color>
+    <color name="m3_on_surface_variant">#43474E</color>
+
+    <color name="m3_outline">#73777F</color>
+    <color name="m3_outline_variant">#C3C7CF</color>
+
+    <color name="m3_error">#BA1A1A</color>
+    <color name="m3_on_error">#FFFFFF</color>
+</resources>
