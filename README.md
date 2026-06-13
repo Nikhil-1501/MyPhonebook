@@ -87,7 +87,7 @@ app/src/main/java/com/example/myphonebook/
 ### **Installation**
 1.  **Clone the project**:
     ```bash
-    git clone https://github.com/yourusername/myphonebook.git
+    git clone https://github.com/Nikhil-1501/MyPhonebook.git
     ```
 2.  **Add Firebase**:
     *   Place your `google-services.json` in the `app/` directory.
