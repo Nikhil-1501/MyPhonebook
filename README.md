@@ -4,6 +4,12 @@ A modern, feature-rich Android contact management application built with **Mater
 
 ---
 
+## 📺 Application Walkthrough
+
+https://github.com/user-attachments/assets/ab8753fc-cceb-4155-a30d-41f951cc0dfb
+
+---
+
 ## 🚀 Features
 
 ### **Contact Management**
@@ -104,6 +110,33 @@ app/src/main/java/com/example/myphonebook/
 2.  **Sharing via QR**: Open a contact, tap the triple-dot menu (⋮), and select **Share QR**.
 3.  **Syncing**: Pull down on the main list to trigger a cloud sync. Ensure you are signed in via the Settings tab.
 4.  **Bulk Export**: Go to Settings and use the **Export to CSV** feature to create a backup.
+
+---
+
+## 📸 App Gallery
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/553101f2-24c9-419f-b27d-207c322714e6" width="240" title="Main Contact List" alt="Main Contact List" />
+  <img src="https://github.com/user-attachments/assets/1eae59fd-5280-4278-b77c-5663c28abc12" width="240" title="Add Contact" alt="Add Contact" />
+  <img src="https://github.com/user-attachments/assets/7011ac63-7a5e-4150-a449-37ab5df79d36" width="240" title="Dropdown Options" alt="Dropdown Options" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71232b5b-b6f9-46e0-80d0-e918e6ccc3ca" width="240" title="Delete Contact" alt="Delete Contact" />
+  <img src="https://github.com/user-attachments/assets/88828930-7800-4bed-b720-0d4c1ddad281" width="240" title="Settings" alt="Settings" />
+  <img src="https://github.com/user-attachments/assets/8ced85b1-08c7-4ec2-8c1b-6db18d2c5374" width="240" title="Cloud Sync" alt="Cloud Sync" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4238f863-488d-4343-b9c3-82b952b34439" width="240" title="Favorites" alt="Favorites" />
+  <img src="https://github.com/user-attachments/assets/7863ddff-662e-45f7-9757-ae1328e2406a" width="240" title="Dark Mode Settings" alt="Dark Mode Settings" />
+  <img src="https://github.com/user-attachments/assets/274740fa-cc01-4cd0-8adf-82759cd55759" width="240" title="Dark Mode Home" alt="Dark Mode Home" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82c3c992-a69d-4669-a0bc-1214afbb3ed6" width="240" title="Share via QR" alt="Share via QR" />
+  <img src="https://github.com/user-attachments/assets/4851607c-9a76-47d2-bec2-00a38543512c" width="240" title="Dark Mode Favorites" alt="Dark Mode Favorites" />
+</p>
 
 ---
 
